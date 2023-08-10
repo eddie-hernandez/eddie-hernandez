@@ -1,5 +1,5 @@
 <h1 align="center">Eddie Hernandez</h1>
-<h4 align="center"><i>Full-Stack Software Engineer with a knack for weaving responsive UI together with cutting-edge backend tech 💡! </i></h4>
+<h3 align="center"><i>Full-Stack Software Engineer with a knack for weaving responsive UI together with cutting-edge backend tech 💡! </i></h3>
 <div align="center"><img src="https://media.tenor.com/i1tjNkt9QI8AAAAC/atypical-pixel.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 • 💿 Always working on: [noted](https://noted.world)
